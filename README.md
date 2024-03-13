@@ -11,3 +11,5 @@ To make the most out of these tutorials, you should have a basic understanding o
 
 # Contributing guidelines
 Use wines_SPA.csv dataset to resolve the issues.
+**Regression** : For regression tasks use 'body' as the target variable in the dataset.
+
