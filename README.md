@@ -7,3 +7,7 @@ Welcome to the ML Tutorial! This repository is designed to help beginners and in
 
 # Prerequisites
 To make the most out of these tutorials, you should have a basic understanding of programming concepts and have some experience with Python.
+
+
+# Contributing guidelines
+Use wines_SPA.csv dataset to resolve the issues.
