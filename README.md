@@ -1,15 +1,30 @@
-# Regression
-ML Repo for FOSS WEEKEND
+# ML Repo for FOSS WEEKEND
 
 # ML Tutorial
 Welcome to the ML Tutorial! This repository is designed to help beginners and intermediates learn about machine learning and its various techniques and algorithms.
 
-
-# Prerequisites
+## Prerequisites
 To make the most out of these tutorials, you should have a basic understanding of programming concepts and have some experience with Python.
 
+## Getting Started
+To get started with the tutorials, you have a couple of options:
 
-# Contributing guidelines
-Use wines_SPA.csv dataset to resolve the issues.
-**Regression** : For regression tasks use 'price' as the target variable in the dataset.
+### Option 1: Open Collaboratory
+Click [here](https://colab.research.google.com/) to open the notebooks directly in Google Colab. Follow along with the tutorials and execute the code cells in the Colab environment. Use the wines_SPA.csv dataset for regression tasks, with 'price' as the target variable in the dataset.
+
+### Option 2: Jupyter Notebook
+1. Clone this repository to your local machine.
+2. Ensure you have Python installed. If not, download and install it from [python.org](https://www.python.org/).
+3. Launch Jupyter Notebook from the command line by running `jupyter notebook`.
+4. Use the wines_SPA.csv dataset for regression tasks, with 'price' as the target variable in the dataset.
+
+
+## Contributing
+We welcome contributions from the community to make this tutorial repository better. To contribute, follow these steps:
+1. Fork this repository to your GitHub account.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Commit your changes with descriptive commit messages: `git commit -am 'Add feature: description'`.
+4. Push your changes to your fork: `git push origin feature-name`.
+5. Open a pull request on the original repository, describing your changes.
+
 
